@@ -1,0 +1,12 @@
+.lu, .ma, .mie, .jue, .vie, .sab {
+    font-weight: bolder;
+    font-size: 20px;
+    color:darkgreen
+}
+
+.lu1, .lu2, .ma1, .ma2, .mie1, .mie2, .jue1, .jue2, .vie1, .vie2, .sab1 {
+    font-style: italic;
+    font-size: 18px;
+    color:dimgray
+    
+}

@@ -1,0 +1,31 @@
+h1,
+h2,
+h3 {
+    background-color: black;
+    color: green;
+    font-size: 25px;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+.head {
+    background-color:forestgreen;
+    max-width: 100%;
+    height: 25%;
+}
+
+.foot {
+    background-color:forestgreen;
+    max-width: 100%;
+    height: 10%;
+}
+/* width: ; es para ponerle el tamaño de cada cosa */
+/* font-weight: ; para definir el grosor de la letra */
+/* font-style: ; para poner en cursiva */
